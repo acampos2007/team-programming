@@ -6,7 +6,6 @@ https://acampos.greenriverdev.com/328sdev/team-programming/
 Description: cupcake request form
 -->
 <?php
-
 ?>
 
 <!DOCTYPE html>
@@ -47,7 +46,6 @@ Description: cupcake request form
 
 
 <?php
-//include("js/cupcake.js");
 ?>
 </body>
 </html>
