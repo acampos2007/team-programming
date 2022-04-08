@@ -3,7 +3,6 @@ Description: cupcake confirmation
 -->
 <?php
 
-
 /*function getFlavor()
 {
     $flavor = array('Chocolate', 'Vanilla', 'Tiramisu', 'Whiskey Maple Bacon', 'Red Velvet', 'Carrot Cake');
